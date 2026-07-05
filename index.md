@@ -6,7 +6,7 @@
 
 ## 开发
 
-- 待添加
+- [Windows GitHub Bootstrap Skill](docs/dev/skills/windows-github-bootstrap/SKILL.md)
 
 ## 效率
 
