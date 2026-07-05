@@ -7,6 +7,7 @@
 ## 开发
 
 - [Windows GitHub Bootstrap Skill](docs/dev/skills/windows-github-bootstrap/SKILL.md)
+- [Windows Google Network Skill](docs/dev/skills/windows-google-network/SKILL.md)
 
 ## 效率
 
